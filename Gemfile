@@ -7,4 +7,4 @@ gem "json_model", :path => File.expand_path("..", __FILE__)
 # These are development dependencies 
 gem "rake"
 gem "rspec", "1.3.0"
-gem "activesupport", ">= 3.0.0"
+gem "activesupport"
